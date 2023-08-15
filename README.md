@@ -3,7 +3,7 @@
 
 Submitted by: **Vashawn Robinson**
 
-**iOS ColoeWheelz App** is an app that... [TODO] 
+**iOS ColoeWheelz App** is an app that lets you change the color of your background!  
 
 Time spent: **1.2** hours spent in total
 
