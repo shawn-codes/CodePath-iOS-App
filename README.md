@@ -1,48 +1,40 @@
-# CodePath-iOS-App
-# Prework - *Color Changerz*
+# Project 1 - *Wordle Pt. 1*
 
-Submitted by: **Vashawn Robinson**
+Submitted by: **Avanti Manjunath**
 
-**iOS ColoeWheelz App** is an app that lets you change the color of your background!  
+**WORDLE** is an app that ... [TODO] 
 
-Time spent: **1.2** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [√] Users are see a screen with three labels and a button
-- [√] Tapping the button changes the screen color to a random color
- 
+- [X] App displays a keyboard on the screen
+- [X] When tapping on the keyboard, a letter is shown or deleted (letter selected)
+- [X] User can play a basic version of Wordle, with different goal words each time
+
+The following **optional** features are implemented:
+
+- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [ ] Run the app on a device rather than in the simulator
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
+
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+<img src='https://github.com/AvantiiM/ios101-project1-wordle-starter/blob/main/Worlde_Pt1.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJscGkyZDcya2Y2aGY0ejV1cGxhdnp1N2Fhcmh2amhmNmdqY3RreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vnk3y3G1oSihJYqUvM/giphy.gif' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ... Kap / GIPHY 
-
-
-## App Brainstorming (Step 4)
-My favorite applications are...
-1. Twitter / X
-2. Instagram
-3. Notes
-
-2. Features that make them my favorite app are Dark Mode and Deleting old messages.
-
-3. App Idea: An improvement of Twitter which aims to provide users with a more immersive and personalized social media experience.
-   In addition to the familiar features of tweeting and following,one key feature is the topic community which are curated spaces for users to explore specific areas of interest.
-   Users can join these communities to connect with like-minded individuals, share expertise, and gain access to exclusive content.
 ## Notes
 
 Describe any challenges encountered while building the app.
-1. Label wasn't letting me change the name. 
+- Understanding closures and the syntax
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Avanti Manjunath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
