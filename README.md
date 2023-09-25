@@ -1,10 +1,10 @@
 # Project 1 - *Wordle Pt. 1*
 
-Submitted by: **Avanti Manjunath**
+Submitted by: **Vashawn Robinson**
 
 **WORDLE** is an app that ... [TODO] 
 
-Time spent: **2.5** hours spent in total
+Time spent: **2.2** hours spent in total
 
 ## Required Features
 
